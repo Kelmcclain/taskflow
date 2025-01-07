@@ -68,7 +68,7 @@ export function Header() {
             </Link>
 
             <nav className="hidden lg:flex items-center gap-1">
-              <NavLink to="/">Dashboard</NavLink>
+              <NavLink to="/taskflow">Dashboard</NavLink>
               <NavLink to="/taskflow/about">About</NavLink>
               <NavLink to="/taskflow/contact">Contact</NavLink>
               
